@@ -1,3 +1,4 @@
+#This is a python guess game where a player has to guess the number within a limited no of guesses.The number 'n' which is to be guessed can be set to any number.
 n = 78
 guesses = 9
 guesses1=1
